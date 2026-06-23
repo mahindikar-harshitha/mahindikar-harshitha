@@ -72,7 +72,7 @@
 ## 📫 Connect With Me
 
 * LinkedIn: [www.linkedin.com/in/harshitha-mahindikar](http://www.linkedin.com/in/harshitha-mahindikar)
-* GitHub: github.com/yourusername
+
 
 ---
 
